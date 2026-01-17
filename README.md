@@ -1,7 +1,7 @@
 # Computer-Science-Project
 ## YouTube Trending Videos – Data Analysis
 
-Il progetto implementa una pipeline di **analisi dei dati sui video di tendenza di YouTube**, sviluppato in **Python** nell’ambito del corso **Foundations of Computer Science (Data Science)**  
+Il progetto implementa una serie di tasks di **analisi dei dati sui video di tendenza di YouTube**, sviluppato in **Python** nell’ambito del corso **Foundations of Computer Science (Data Science)**  
 A.A. **2025–2026**, Università degli Studi di **Milano-Bicocca**.
 
 Il lavoro si concentra sull’integrazione e sull’analisi esplorativa di dataset provenienti da più paesi, con l’obiettivo di ottenere statistiche aggregate e confrontabili.
